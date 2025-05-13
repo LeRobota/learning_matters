@@ -70,7 +70,6 @@ While basic interaction modules are provided, the part touched by the child can 
 - JST cable  
 - Female pogo pin connector
 
----
 
 #### 🔧 Assembly Instructions
 
@@ -102,4 +101,51 @@ While basic interaction modules are provided, the part touched by the child can 
    - Plug the battery into the "**bat**" port  
    - Plug the pogo pin JST cable into the "**device**" port
    - ![img](/doc_img/imgtuto07.jpg "img07")
+
+---
+
+### 02 - Build the LED Module
+
+![img](/doc_img/imgtuto08.jpg "img08")
+
+#### 🧰 Required Components
+
+- 3mm LED  
+- Wires  
+- Male pogo pin connector  
+- 3D-printed LED module  
+- PMMA plexiglass cover  
+- M2 threaded inserts  
+- M2 washers  
+- M2 screws
+
+
+#### 🔧 Assembly Instructions
+
+1. **Solder the cables to the pogo pin connector**  
+   - As in the previous step, solder 3 wires to the pogo pin connector:  
+     - Ground in the **center**  
+     - Positive wires on the **sides**
+![img](/doc_img/imgtuto09.jpg "img09")
+
+2. **Prepare the LED connections**  
+   - Twist the two positive wires together  
+   - Solder them to the **positive pin** of the LED  
+   - Solder the ground wire to the **negative pin** of the LED
+![img](/doc_img/imgtuto10.jpg "img10")
+
+3. **Mount the pogo pin connector**  
+   - Insert the connector into its slot as before  
+   - Secure with **cyanoacrylate glue** if needed  
+   - ⚠️ Avoid getting glue on the metal contacts
+
+4. **Mount the LED**  
+   - Insert the LED pins into their dedicated slots  
+   - Secure the LED with **hot glue**
+![img](/doc_img/imgtuto11.jpg "img11")
+
+5. **Final assembly**  
+   - Insert the M2 threaded inserts with a soldering iron  
+   - Screw the PMMA plexiglass cover in place using M2 screws and washers
+![img](/doc_img/imgtuto12.jpg "img12")
 
