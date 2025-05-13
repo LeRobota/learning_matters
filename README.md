@@ -1,3 +1,5 @@
+![img](/doc_img/LM25.jpg "imggen")
+
 # Learning Matters 25
 This project is derived from the **Learning Matters** project created by designer-researchers **Claire Eliot & Marion Voillot**.  
 This updated version was made possible thanks to funding from the **Fréquence Écoles** association.
@@ -51,6 +53,10 @@ While basic interaction modules are provided, the part touched by the child can 
 | **JST cable** | [Link](https://www.gotronic.fr/art-cordon-jst-ph-femelle-2-cts-jst2100-22583.htm) |
 | **3mm green PMMA plexiglass** | [Link](https://plexiglasssurmesure.fr/produit/plaque-plexiglass-vert-opale-3mm/) |
 | **3mm frosted PMMA plexiglass** | [Link](https://plexiglasssurmesure.fr/produit/plaque-plexiglass-givre-blanc-opale-3mm/) |
+
+---
+
+![img](/doc_img/LM_circuit.png "LM_circuit.png")
 
 ---
 
