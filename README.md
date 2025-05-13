@@ -171,7 +171,7 @@ While basic interaction modules are provided, the part touched by the child can 
    - Insert the LED pins into their dedicated slots  
    - Secure the LED with **hot glue**
    
-![img](/doc_img/imgtuto11.jpg "img12)
+![img](/doc_img/imgtuto11.jpg "img12")
 
 
 5. **Final assembly**  
