@@ -58,6 +58,7 @@ While basic interaction modules are provided, the part touched by the child can 
 
 ### 01 - Build the Battery Module
 
+![img](/doc_img/imgtuto01.jpg "img01")
 #### 🧰 Required Components
 
 - 3D-printed battery module  
@@ -77,22 +78,28 @@ While basic interaction modules are provided, the part touched by the child can 
    - Solder 3 wires to the female connector:  
      - Ground in the **center**  
      - Positive wires on the **sides**
+![img](/doc_img/imgtuto02.jpg "img02")
 
 2. **Prepare the connections**  
    - Strip the two positive wires  
    - Tie them together and solder to the **positive JST wire**  
    - Add heat shrink tubing for insulation
+![img](/doc_img/imgtuto03.jpg "img03")
+![img](/doc_img/imgtuto04.jpg "img04")
 
 3. **Mount the connector**  
    - Insert the connector into its slot  
    - Use a small drop of **cyanoacrylate glue** to hold it in place  
    - ⚠️ Be careful **not to apply glue on metal contacts**
+![img](/doc_img/imgtuto05.jpg "img05")
 
 4. **Insert threaded inserts**  
    - Use a soldering iron to insert **M2 brass inserts** into their housings
+![img](/doc_img/imgtuto06.jpg "img06")
 
 5. **Final assembly**  
    - Screw the charger module in place  
    - Plug the battery into the "**bat**" port  
    - Plug the pogo pin JST cable into the "**device**" port
+   - ![img](/doc_img/imgtuto07.jpg "img07")
 
