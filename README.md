@@ -167,9 +167,114 @@ While basic interaction modules are provided, the part touched by the child can 
    
 ![img](/doc_img/imgtuto11.jpg "img12)
 
+
 5. **Final assembly**  
    - Insert the M2 threaded inserts with a soldering iron  
    - Screw the PMMA plexiglass cover in place using M2 screws and washers
 
 ![img](/doc_img/imgtuto12.jpg "img13")
+
+
+### 03 - Build the Sensor Module
+
+![img](/doc_img/imgtuto13.jpg "img14")
+
+#### 🧰 Required Components
+
+- 3D-printed sensor module  
+- Wires  
+- Male and female pogo pin connectors  
+- Capacitive touch sensor  
+- Adafruit Trinket M0  
+- Laser-cut plexiglass cover  
+- Conductive adhesive  
+- Laser-cut conductive fabric
+
+---
+
+#### 🔧 Assembly Instructions
+
+1. **Install Arduino IDE**  
+   - Download and install the Arduino IDE:  
+     [https://www.arduino.cc/en/software/#ide](https://www.arduino.cc/en/software/#ide)
+
+2. **Set up the Trinket M0 board**  
+   - Follow the Adafruit instructions:  
+     [https://learn.adafruit.com/adafruit-trinket-m0-circuitpython-arduino/arduino-ide-setup](https://learn.adafruit.com/adafruit-trinket-m0-circuitpython-arduino/arduino-ide-setup)
+   - In the Arduino IDE, go to **Tools > Board Manager**, install **Adafruit SAMD Boards**, and select **Trinket M0**.
+
+3. **Connect the Trinket M0**  
+   - Plug in your Trinket M0  
+   - If the onboard LED is not green, double-click the button on the board  
+   - Wait a few seconds until the LED turns green
+
+4. **Upload the Arduino code**  
+   - In the Arduino IDE, go to **Tools > Port** and select the port labeled **Trinket M0**  
+   - Download the project code from GitHub and click **Upload** to flash it to the board  
+   - Once uploaded, unplug the board
+
+5. **Solder the capacitive sensor wires**  
+   - Solder 3 wires to the capacitive sensor:  
+     - **Red** to **VCC**  
+     - **Black** to **GND**  
+     - Another color to **I/O** or **SIG** (depending on the label)
+    
+ ![img](/doc_img/imgtuto13.jpg "img16") 
+
+
+6. **Add sensing wire**  
+   - Solder a separate wire to the metallic pad of the capacitive sensor
+
+![img](/doc_img/imgtuto13.jpg "img17")
+
+
+7. **Prepare pogo pin connectors**  
+   - Solder the **male and female pogo pin connectors** as shown in previous steps
+
+![img](/doc_img/imgtuto13.jpg "img18")
+
+  
+8. **Solder male connector to the Trinket** 
+   - Solder one **positive connector wire of the male pogo pin connector** to the **positive wire** of the capacitive sensor  
+   - Solder the other **male connector wire** directly to the **BAT pin** on the Trinket M0
+
+![img](/doc_img/imgtuto13.jpg "img19")
+![img](/doc_img/imgtuto13.jpg "img20")
+
+8. **Connect the female pogo pin**  
+   - Solder the 2 positives wires to a single wire and connect it to **Pin 1** of the Trinket M0
+
+![img](/doc_img/imgtuto13.jpg "img21")
+![img](/doc_img/imgtuto13.jpg "img22")
+
+
+9. **Connect data and ground**  
+   - Solder the **I/O (or SIG) wire** from the sensor to **Pin 3** of the Trinket M0  
+   - Gather all **ground wires** together and solder them to the **GND pin** of the Trinket M0
+
+![img](/doc_img/imgtuto13.jpg "img23")
+![img](/doc_img/imgtuto13.jpg "img24")
+
+
+10. **Final assembly**  
+    - Insert the **M2 threaded inserts** and mount the pogo pin connectors  
+    - Screw the Trinket M0 and the capacitive sensor into their dedicated slots  
+    - Strip a long section of the sensing wire  
+    - Thread it through the hole in the **laser-cut plexiglass cover**  
+    - Cut a strip of **conductive adhesive** and stick it over the exposed wire to make contact with the **conductive fabric**
+
+![img](/doc_img/imgtuto13.jpg "img25")
+![img](/doc_img/imgtuto13.jpg "img26")
+![img](/doc_img/imgtuto13.jpg "img27")
+
+
+
+11. **Install the fabric**  
+    - Place the pre-cut conductive fabric over the adhesive and secure it with screws
+   
+![img](/doc_img/imgtuto13.jpg "img28")
+
+
+
+🎉 You're done! Great job!
 
