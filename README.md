@@ -41,14 +41,14 @@ While basic interaction modules are provided, the part touched by the child can 
 | **Red neoprene**| [Link](https://etissus.com/fr/tissu-ouate-rembourrage-/11510-tissu-scuba-neoprene-rouge.html) |
 | **EVA foam** | [Link](https://etissus.com/fr/mousse-caoutchouc-eva/2761-tissu-mousse-caoutchouc-bleu.html) |
 | **Grey PLA** | [Link](https://www.3djake.fr/extrudr/pla-nx-2-gris) |
-| **Conductive tape** | [Amazon](https://www.amazon.fr/dp/B0CQX3Y7LH) |
-| **Pogo pins** | [Amazon](https://www.amazon.fr/dp/B09STS5YZX) |
+| **Conductive tape** | [Link](https://www.amazon.fr/dp/B0CQX3Y7LH) |
+| **Pogo pins** | [Link](https://www.amazon.fr/dp/B09STS5YZX) |
 | **Trinket M0** | [Link](https://www.gotronic.fr/art-module-trinket-m0-ada3500-27170.htm) |
 | **LiPo charger** | [Link](https://www.gotronic.fr/art-chargeur-lipo-amigo-pro-pim612-38175.htm) |
 | **LiPo battery** | [Link](https://www.gotronic.fr/art-accu-lipo-3-7-vcc-400-mah-pr502535-5812.htm) |
 | **High-brightness 3mm LED** | [Link](https://www.gotronic.fr/art-led-3-mm-l3fwc1-35813.htm) |
-| **Threaded inserts (M2)** | [Amazon](https://www.amazon.fr/dp/B088QJG676) |
-| **M2 screws** | [Amazon](https://www.amazon.fr/gp/product/B01B1OD9UQ) |
+| **Threaded inserts (M2)** | [Link](https://www.amazon.fr/dp/B088QJG676) |
+| **M2 screws** | [Link](https://www.amazon.fr/gp/product/B01B1OD9UQ) |
 | **Washers** | [Link](https://www.gotronic.fr/art-10-rondelles-plates-2mm-6561.htm) |
 | **JST cable** | [Link](https://www.gotronic.fr/art-cordon-jst-ph-femelle-2-cts-jst2100-22583.htm) |
 | **3mm green PMMA plexiglass** | [Link](https://plexiglasssurmesure.fr/produit/plaque-plexiglass-vert-opale-3mm/) |
@@ -62,7 +62,7 @@ While basic interaction modules are provided, the part touched by the child can 
 
 ## 🛠️ HOW TO
 
-### 01 - Build the Battery Module
+## 01 - Build the Battery Module
 
 ![img](/doc_img/imgtuto01.jpg "img01")
 
@@ -124,7 +124,7 @@ While basic interaction modules are provided, the part touched by the child can 
 ---
 
 
-### 02 - Build the LED Module
+## 02 - Build the LED Module
 
 ![img](/doc_img/imgtuto08.jpg "img08")
 
@@ -171,17 +171,17 @@ While basic interaction modules are provided, the part touched by the child can 
    - Insert the LED pins into their dedicated slots  
    - Secure the LED with **hot glue**
    
-![img](/doc_img/imgtuto11.jpg "img12")
+![img](/doc_img/imgtuto12.jpg "img12")
 
 
 5. **Final assembly**  
    - Insert the M2 threaded inserts with a soldering iron  
    - Screw the PMMA plexiglass cover in place using M2 screws and washers
 
-![img](/doc_img/imgtuto12.jpg "img13")
+![img](/doc_img/imgtuto13.jpg "img13")
 
 
-### 03 - Build the Sensor Module
+## 03 - Build the Sensor Module
 
 ![img](/doc_img/imgtuto15.jpg "img14")
 
