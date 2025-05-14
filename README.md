@@ -62,6 +62,8 @@ While basic interaction modules are provided, the part touched by the child can 
 
 ## 🛠️ HOW TO
 
+A full video tutorial is available here (in french) : https://youtu.be/ugfx-SLmRy8
+
 ## 01 - Build the Battery Module
 
 ![img](/doc_img/imgtuto01.jpg "img01")
